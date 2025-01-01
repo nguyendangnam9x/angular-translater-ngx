@@ -1,0 +1,10 @@
+{
+  "demo": {
+    "title": "Demo Internationalization",
+    "simple": {
+      "text-with-pipe": "Pipe",
+      "text-as-attribute": "Attribute",
+      "text-as-content": "Content"
+    }
+  }
+}

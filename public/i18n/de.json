@@ -1,0 +1,10 @@
+{
+  "demo": {
+    "title": "Démonstration d'internationalisation",
+    "simple": {
+      "text-with-pipe": "Tube",
+      "text-as-attribute": "Attribut",
+      "text-as-content": "Contenu"
+    }
+  }
+}
